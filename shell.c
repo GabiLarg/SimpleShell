@@ -409,6 +409,6 @@ int main(int argc, char *argv[]) {
 	}else{
 		exit(128+15);/*if it doesnt exit*/
 	}
-	(void)printf("p2 terminated.\n");
+	(void)printf("Program has terminated.\n");
 	return 0;
 }
